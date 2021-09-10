@@ -8,4 +8,10 @@ To utilize heat and electricity in a clean and integrated manner, a zero-carbon-
 
 ## Notice
 
-If the code is not runable, plz check previous commits.
+If the program cannot work, run
+
+``` bash
+git checkout 0de1953
+```
+
+You'll find MEICAESV5.m, it should work.
